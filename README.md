@@ -13,4 +13,4 @@ The animation of the stick was achieved by hiding all sticks (iterating over a l
 
 <img width="570" alt="Screenshot 2023-06-30 at 4 38 16 PM" src="https://github.com/khojashaheen/Burundi-Drummers/assets/132402838/f109070d-c628-4409-9ca1-f9cc20bcd73d">
 
-Github Page:
+Github Page: https://khojashaheen.github.io/Burundi-Drummers
